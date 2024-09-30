@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hand Mobility Assistance</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Hand Mobility Assistance</h1>
+        <nav>
+            <ul>
+                <li><a href="#resources">Resources</a></li>
+                <li><a href="#exercises">Exercise Programs</a></li>
+                <li><a href="#community">Community Forum</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="resources">
+            <h2>Resource Library</h2>
+            <p>Explore our collection of videos and guides to help improve hand mobility.</p>
+            <ul>
+                <li><a href="#">Video Tutorial: Strength Exercises</a></li>
+                <li><a href="#">Downloadable Guide: Daily Tips</a></li>
+            </ul>
+        </section>
+
+        <section id="exercises">
+            <h2>Customized Exercise Programs</h2>
+            <p>Get personalized exercise plans to enhance your hand mobility.</p>
+            <button onclick="alert('Coming Soon!')">Get Your Plan</button>
+        </section>
+
+        <section id="community">
+            <h2>Community Forum</h2>
+            <p>Join our community to share experiences and advice.</p>
+            <button onclick="alert('Join the Discussion!')">Visit Forum</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Hand Mobility Assistance. All rights reserved.</p>
+    </footer>
+</body>
+</html>
